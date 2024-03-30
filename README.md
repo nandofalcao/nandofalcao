@@ -16,6 +16,7 @@ Hello! I'm Fernando Falcao, a technology enthusiast passionate about software de
 Some of the technologies I enjoy working with include:
 
 - JavaScript (ES6+)
+- Typescript
 - React.js
 - Node.js
 - HTML5 & CSS3
