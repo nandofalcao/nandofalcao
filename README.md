@@ -17,11 +17,13 @@ Some of the technologies I enjoy working with include:
 
 - JavaScript (ES6+)
 - Typescript
+- React Native
 - React.js
 - Node.js
 - HTML5 & CSS3
 - SQL & NoSQL databases
-- Git
+- Rabbit
+- Redis
 - Solidity
 - Hardhat
 - Ethereum
