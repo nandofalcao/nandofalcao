@@ -33,6 +33,6 @@ I'm always open to learning and experimenting with new technologies, but these a
 
 ## How to Reach Me
 
-If you'd like to get in touch with me for collaborations or just a technical chat, feel free to send me a message or connect with me on [LinkedIn](https://www.linkedin.com/in/fernandofalcao).
+If you'd like to get in touch with me for collaborations or just a technical chat, feel free to send me a message.
 
 Feel free to explore my repositories and projects to learn more about my work and experience.
